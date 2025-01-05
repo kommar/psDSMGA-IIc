@@ -1,0 +1,15 @@
+ct_500_log\\destination_file
+optimization\\mode
+binary_binary\\problem_type
+binary_cyclic_trap\\evaluation_type
+500\\evaluation_number_of_elements
+population_sizing\\optimizer_type
+running_time\\stop_condition_type
+28800\\stop_condition_time
+dsmga2\\optimizer_type
+none\\stop_condition_type
+2\\population_size
+0\\two_edge
+1\\comparative_mixing
+4\\population_creation_frequency
+2\\population_size_multiplier
